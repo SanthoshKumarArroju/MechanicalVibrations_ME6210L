@@ -1,1 +1,1 @@
-# Arroju
+# Mechanical Vibrations laboratory
